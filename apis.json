@@ -1,0 +1,77 @@
+{
+    "name": "OpenDaylight",
+    "description": "OpenDaylight is a community-led, open, industry-supported platform, consisting of code and blueprints for accelerating adoption, fostering new innovation, reducing risk and creating a more transparent approach to Software-Defined Networking.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18606-opendaylight.jpg",
+    "tags": [
+        "have api",
+        "internet of things",
+        "networks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/opendaylight\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "OpenDaylight",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18606-opendaylight.jpg",
+            "humanURL": "http:\/\/www.opendaylight.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/opendaylight-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.opendaylight.org\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.opendaylight.org\/blog\/feed"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/opendaylight"
+        },
+        {
+            "type": "Email",
+            "url": "pr@opendaylight.org"
+        },
+        {
+            "type": "Email",
+            "url": "webmaster@opendaylight.org"
+        },
+        {
+            "type": "Email",
+            "url": "info@opendaylight.org"
+        },
+        {
+            "type": "Email",
+            "url": "security@lists.opendaylight.org"
+        },
+        {
+            "type": "Email",
+            "url": "inbound@opendaylight.org"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/opendaylight"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/OpenDaylightSDN"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.opendaylight.org\/"
+        }
+    ]
+}
